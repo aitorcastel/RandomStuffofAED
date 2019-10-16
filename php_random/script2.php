@@ -1,0 +1,1 @@
+<?php $var2 = "script2"; ?>

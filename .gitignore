@@ -3,6 +3,6 @@ img/
 webalizer/
 xampp/
 *favicon.ico
-*.php
-*.html
-*.css
+.php
+.html
+.css
