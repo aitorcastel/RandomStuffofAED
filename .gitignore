@@ -1,0 +1,8 @@
+dashboard/
+img/
+webalizer/
+xampp/
+*favicon.ico
+*.php
+*.html
+*.css
